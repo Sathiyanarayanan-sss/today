@@ -1,2 +1,1 @@
-this is a text file 
-so write it text 
+this is a text file
